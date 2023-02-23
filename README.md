@@ -1,6 +1,6 @@
 # Vulkan-Tutorial<br>
 Tutorial written in Python that introduces basic Vulkan concepts.<br>
-- "Introduction to Vulkan using Python" contains the tutorial itself along with an introduction to key components of the Vulkan graphics library
+- "Introduction to Vulkan using Python" contains the tutorial itself along with an introduction to key components of the Vulkan graphics library;
 - "vulkan-tutorial" contains the code to be used as a base for the tutorial;<br>
 - "vulkan-tutorial-completed", as the name implies, contains an example of how the code should look like after completing the tutorial.<br>
 
